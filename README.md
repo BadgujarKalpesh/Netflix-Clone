@@ -1,5 +1,5 @@
 # Netflix-Clone
-### Netflix-Clone using the HTMl and CSS
+### Netflix-Clone using the HTML and CSS
 ## Home page
 
 
